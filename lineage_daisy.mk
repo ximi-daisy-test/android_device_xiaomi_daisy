@@ -20,7 +20,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_DEVICE := daisy
 PRODUCT_NAME := lineage_daisy
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Mi A2 lite
+PRODUCT_MODEL := Mi A2 Lite
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
